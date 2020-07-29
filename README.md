@@ -18,9 +18,8 @@
 <br/><br/>
 -택트스위치를 이용하여 led점등 설계
 <br/>
-![image](https://user-images.githubusercontent.com/53510936/88836089-28435600-d211-11ea-8a16-4589127d1a94.png)
-
-<br/><br/>
+![image](https://user-images.githubusercontent.com/53510936/88836245-5b85e500-d211-11ea-839a-56a7d1faab0d.png)
+<br/>
 -플렉스 센서로 lcd,led-matrix 출력
 ![image](https://user-images.githubusercontent.com/53510936/88835438-3a70c480-d210-11ea-9a74-879c9e5c34a9.png)               ![image](https://user-images.githubusercontent.com/53510936/88835494-4d839480-d210-11ea-8bd2-c6de86c48fb9.png)
 <br/>
