@@ -22,7 +22,7 @@
 
 <br/><br/>
 -플렉스 센서로 lcd,led-matrix 출력
-![image](https://user-images.githubusercontent.com/53510936/88835438-3a70c480-d210-11ea-9a74-879c9e5c34a9.png)    ![image](https://user-images.githubusercontent.com/53510936/88835494-4d839480-d210-11ea-8bd2-c6de86c48fb9.png)
+![image](https://user-images.githubusercontent.com/53510936/88835438-3a70c480-d210-11ea-9a74-879c9e5c34a9.png)               ![image](https://user-images.githubusercontent.com/53510936/88835494-4d839480-d210-11ea-8bd2-c6de86c48fb9.png)
 <br/>
 4.작동영상
 <br/>
