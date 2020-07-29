@@ -1,11 +1,11 @@
-# led-matrix
+# led-matrix 방향지시등
 
 
-- 자전거 방향지시등
- ##1.설계
- 구성장치
-보드	입력장치	출력장치
-아두이노 우노	플렉스센서	택트스위치	LCD	MAX7219도트매트릭스	LED
+
+1.구성장치
+
+![image](https://user-images.githubusercontent.com/53510936/88823468-14432880-d200-11ea-8065-2a93f1b51027.png)
+
  	 	 	 	 	 
 
- 2.현재위치 
+ 
