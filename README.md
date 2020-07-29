@@ -4,7 +4,7 @@
 
 1.구성장치
 
-<img src="https://user-images.githubusercontent.com/53510936/88823468-14432880-d200-11ea-8065-2a93f1b51027.png" width="500%">
+<img src="https://user-images.githubusercontent.com/53510936/88823468-14432880-d200-11ea-8065-2a93f1b51027.png" width="100%">
 
 
 2.핀 배치도
