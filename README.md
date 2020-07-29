@@ -11,6 +11,8 @@
 
 <img src="https://user-images.githubusercontent.com/53510936/88824727-b0216400-d201-11ea-877b-d6fafa708fe8.png" width="60%">
 
- 	 	 	 	 	 
+<br/>
+3.작동영상
+<https://www.youtube.com/watch?v=cM4t-2mLPjU>
 
  
