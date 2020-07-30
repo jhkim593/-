@@ -13,12 +13,12 @@
 
 <img src="https://user-images.githubusercontent.com/53510936/88824727-b0216400-d201-11ea-877b-d6fafa708fe8.png" width="60%">
 
-<br/>
+
 3.기능구현
 <br/><br/>
 -택트스위치를 이용하여 led점등 설계
 
-<br/>
+
 ![image](https://user-images.githubusercontent.com/53510936/88868210-7fb1e800-d24a-11ea-8a40-f88119d9ad70.png)
 <br/>
 -플렉스 센서로 lcd,led-matrix 출력
