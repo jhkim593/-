@@ -20,6 +20,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/53510936/88868210-7fb1e800-d24a-11ea-8a40-f88119d9ad70.png)
+<br/>
 택트 스위치 상태가 HIGH일경우 LED는 점등되고 LOW일 경우 점등되지 않도록 하였다. 택트 스위치는 누르는 것을 유지 할 필요없이 <br/>
 스위치를 누를 때마다 HIGH /LOW가 변환되도록 하였다. 
 <br/><br/>
